@@ -107,11 +107,6 @@ person | 2 | 0.9
 cell phone | 1 | 0.77
 ```
 
-## Screenshots
-
-_Add a screenshot of the detection window here._
-
-_Add a screenshot of the report output here._
 
 ## Limitations
 
