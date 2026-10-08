@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Generated files
+detections.db
+*.pt
